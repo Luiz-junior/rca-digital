@@ -22,7 +22,7 @@ class Home extends Component {
   }
 
   onCheckFavorite = () => {
-    alert('funfou')
+    alert('marcar como favorito');
   };
 
   render() {

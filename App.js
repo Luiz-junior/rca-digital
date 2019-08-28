@@ -5,14 +5,14 @@ import Home from './src/screens/Home';
 import NewAccount from './src/screens/NewAccount';
 
 const AppNavigator = createStackNavigator({
-  NewAccount: {
-    screen: NewAccount,
+  Login: {
+    screen: Login,
     navigationOptions: {
       header: null,
     },
   },
-  Login: {
-    screen: Login,
+  NewAccount: {
+    screen: NewAccount,
     navigationOptions: {
       header: null,
     },

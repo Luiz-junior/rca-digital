@@ -27,31 +27,11 @@
     },
     {
       "id": 4,
-      "url": "content://media/external/images/media/22",
+      "url": "content://media/external/images/media/23",
       "favorite": false
     },
     {
       "id": 5,
-      "url": "content://media/external/images/media/23",
-      "favorite": false
-    },
-    {
-      "id": 6,
-      "url": "content://media/external/images/media/23",
-      "favorite": false
-    },
-    {
-      "id": 7,
-      "url": "content://media/external/images/media/23",
-      "favorite": false
-    },
-    {
-      "id": 8,
-      "url": "content://media/external/images/media/23",
-      "favorite": false
-    },
-    {
-      "id": 9,
       "url": "content://media/external/images/media/23",
       "favorite": false
     }
